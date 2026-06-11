@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hey+👋+I'm+Asghar+Abbas;Full+Stack+Developer;Python+%7C+JavaScript+%7C+React;Node.js+%7C+MongoDB+%7C+Express;Building+Modern+Web+Applications" />
-</p>
+<h1 align="center">Hi 👋, I'm Asghar Abbas</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Aspiring+Full+Stack+Developer;Python+%7C+JavaScript+%7C+React;Node.js+%7C+Express.js+%7C+MongoDB;Building+Web+Projects+Every+Day;Open+Source+Enthusiast" alt="Typing SVG" />
+</p>
 ### 💻 Full Stack Developer
 
 | 🚀 Focus Area          | 📚 Current Learning |
